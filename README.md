@@ -7,6 +7,9 @@ Bienvenido a nuestro Curso avanzado de estadística multivariante con R y Python
 
 ## ¿Qué vamos a aprender?
 
+
+
+
 * Empezaremos con el análisis exploratorio para ser capaces de describir y visualizar los datos de las muestras que tenemos. La visualización es importante para entender los datos, así que poder producir gráficos 2D y 3D es sin duda un requisito para poder hacer un correcto análisis multivariante.
 
 * Luego vamos a ver toda la teoría detrás de las variables aleatorias multivariantes y sus distribuciones respectivas.
